@@ -1,0 +1,5 @@
+cluster,loan_amnt,term,int_rate,emp_length,annual_inc,dti,fico_avg,segment_summary,top_features
+0,12611.67,36.0,12.7,9.29,77350.98,18.93,687.31,"Older borrowers, moderate loan & high income","int_rate, fico_avg, dti"
+1,21035.89,59.6,16.52,6.29,84973.18,20.47,694.95,"High risk, longer term, high interest","int_rate, fico_avg, dti"
+2,10945.34,36.03,13.03,2.5,65671.95,17.99,687.26,"Young, low income, low loan, short term","int_rate, fico_avg, dti"
+3,17362.86,39.3,8.14,6.12,100347.32,15.95,752.8,"Best segment, low interest, high FICO","int_rate, fico_avg, dti"
